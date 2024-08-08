@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Datlaco.vn Order Tool",
   "short_name": "Datlaco.vn Order Tool",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Datlaco.vn - Order Tool",
   "icons": {
     "16": "app/assets/icons/icon_16_active.png",
